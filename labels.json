@@ -64,11 +64,6 @@
     ]
   },
   {
-    "name": "Type: Bugfix/UI",
-    "color": "b60205",
-    "description": "정상 표시되지 않는 UI"
-  },
-  {
     "name": "Type: Feature/Document",
     "color": "0075ca",
     "description": "문서 추가 및 보완 작업"
@@ -80,11 +75,6 @@
     "aliases": [
       "enhancement"
     ]
-  },
-  {
-    "name": "Type: Feature/UI",
-    "color": "7057ff",
-    "description": "UI 수정 및 개선 사항"
   },
   {
     "name": "Type: Hotfix",
